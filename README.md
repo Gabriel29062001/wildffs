@@ -2,7 +2,8 @@
 
 ## 🧠 Overview
 This project implements a Free-Running 5D cardiac MRI reconstruction and segmentation pipeline, enabling real-time quantitative analysis directly on the MRI scanner. It was developed as part of my master’s thesis at EPFL × CHUV.
-A schematic overview illustrating the server–scanner communication is available [here](./assets/fire.png) 
+A schematic overview illustrating the server–scanner communication is available [here](./assets/fire.png).
+
 The main repository has not yet been published, as part of the code (IP protocol) remains under confidentiality restrictions.
 
 <p align="center">
